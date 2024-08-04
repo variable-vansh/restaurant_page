@@ -2,6 +2,6 @@
 
 // alert("now I made a change and did not run npx webpack in the terminal but cuz I have got npx webpack --watch, this will run by itself, hopefully")
 
-import { homePage } from "./home";
+import { homePage } from "../src/pages tab/home";
 
 document.appendChild(homePage)

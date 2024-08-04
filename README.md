@@ -6,11 +6,11 @@ aag laga deni aaj to ekdum
 what's done up until now:
 - setup webpack framework
 - set up hope page
+- add some font and styles to home page
 
 what's left to do:
-- add some font and styles to home page
 - add some style to header buttons
-- make dummy menua nd contact tabs to make tab transfer logic
+- make dummy menu and contact tabs to make tab transfer logic
 - make real menu page
 - style menu page
 - make real conact page

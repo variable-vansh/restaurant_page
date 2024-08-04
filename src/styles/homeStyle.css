@@ -1,0 +1,33 @@
+#content {
+    background-image: url('https://img.freepik.com/free-photo/top-view-circular-food-frame_23-2148723455.jpg?w=900&t=st=1722720346~exp=1722720946~hmac=e56d68a66bb23bb74a81a10fb8d5f83d8cd820ca4b9699306e4130954c6af376');
+    background-size: cover;
+    height: 80vh;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+@font-face {
+    font-family: 'Tagline-Font';
+    src: url(./taglineFont.ttf);
+}
+
+@font-face {
+    font-family: 'Title-Font';
+    src: url(./titleFont.ttf);
+}
+
+.title {
+
+    margin-top: 150px;
+    font-size: 60px;
+    font-family: "Title-Font", sans-serif;
+}
+
+.tagline {
+    font-size: 40px;
+    font-family: "Tagline-Font", sans-serif;
+}
