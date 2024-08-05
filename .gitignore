@@ -1,6 +1,6 @@
 #apne sabse kaam ki cheez
 node_modules/
-dist/
+#dist/
 
 #-------------------------------------------------------------
 # Logs
