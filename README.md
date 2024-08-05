@@ -7,8 +7,6 @@ what's done up until now:
 - setup webpack framework
 - set up hope page
 - add some font and styles to home page
-
-what's left to do:
 - add some style to header buttons
 - make dummy menu and contact tabs to make tab transfer logic
 - make real menu page
